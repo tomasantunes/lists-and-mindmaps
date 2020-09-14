@@ -25,6 +25,9 @@ Science Fields
 - Advertising
 - Marketing
 - Design
+- Art
+- Music
+- Arquitecture
 - Economy
 - Education
 - Communication
