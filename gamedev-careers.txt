@@ -1,0 +1,30 @@
+- Game Designer
+- 2D Artist
+- 3D Artist
+- UI Designer
+- Animator
+- Visual FX
+- Character Artist
+- Environment Artist
+- Level Designer
+- Tester
+- Music Composer
+- Developer
+- Writer
+
+### Playtest Recruiter
+A Playtest Recruiter puts together panels of players to test a game. It’s a crucial role on the front lines of gathering consumer insights throughout the lifecycle of a game, from development, new feature launches, and more.
+
+Don’t want to be a playtest recruiter? You can also make money as a game playtester and give your own opinions about a game!
+
+### Technical Artist
+Are you an artist? An engineer? How about both! This hybrid position bridges the gap between artists and engineers playing a key role in optimizing the art to work effectively in the game. A Technical Artist wears many hats, from managing the game development pipeline to creating new tools, including simulation tools for materials like water, clothing, hair, or fire, to building the system to organize the hundreds of thousands of files needed for game development.
+
+### Platform Engineer
+You may imagine engineers working in Unity all day on game development, but there’s another equally important role of Platform Engineer. Whether it’s a single game or a portfolio of a dozen or more, the Platform Engineer is responsible for the backend system that powers and supports the games. They create features shared across all games, maintain user data, and optimize both user and player experience every day.
+
+### Narrative Designer
+When playing your favorite casual mobile game, have you ever thought about who created the storyline and characters? Believe it or not, there are teams of people working full-time to create compelling stories that seamlessly weave gameplay and narrative together. This is the role of the Narrative Designer: a game team’s central resource for story, structure, character, dialogue, and more. Often the Narrative Designer will also write scripts and help voice-over actors understand the context behind the story. A great story enhances a fun game, and when they work well together, players have a much deeper interactive experience!
+
+### Product Operations
+As gaming companies continue the broader trend of decentralized workforces, the need for a central product role is imperative. Product Operations is a role in the Product team that helps bridge the gap between studios, central teams, and executives. Product Operations looks at the company and product holistically, working with various teams to achieve cohesion, disseminate information, and hit the financial target. Product Operations requires an understanding of game industry economics, user acquisition marketing, all the levers within the games that can drive revenue, and financial modeling skills. Product Operations also touches on M&A diligence, often shares best practices among game teams and assesses games in beta, etc.

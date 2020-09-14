@@ -1,0 +1,19 @@
+Types of Data
+
+- Health
+- Financial
+- Identity
+- Environmental
+- Geographic
+- Chronological
+- Qualitative
+- Quantitative
+- Consumer
+- Products
+- Archives
+- Press
+- Sports
+- Entertainment
+- Astronomical
+- Chemical
+- Biological

@@ -1,0 +1,29 @@
+- video-games
+- programming
+- web development
+- math
+- data and statistics
+- AI
+- security
+- writing
+- journalism
+- photography
+- painting
+- sculpture
+- 3D modelling
+- movies
+- music
+- psychology
+- philosophy
+- history
+- physics
+- chemistry
+- medicine
+- astronomy
+- biology
+- anthropology
+- sociology
+- marketing and advertising
+- design
+- finances
+- business management

@@ -1,0 +1,16 @@
+List of art categories
+
+- Characters
+- Creatures
+- Backgrounds
+- Interiors
+- Landscape
+- Vehicles
+- Weapons
+- Buildings
+- Items
+- Maps
+- Clothing
+- Machines
+- Furniture
+- Plants
