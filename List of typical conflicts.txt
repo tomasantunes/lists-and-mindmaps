@@ -1,0 +1,64 @@
+List of typical conflicts
+
+Left / Right
+Up / Down
+Liberal / Conservative
+Capitalism / Communism
+Democracy / Republic
+Public / Private
+Good / Evil
+Religious / Scientific
+Introvert / Extrovert
+Love / Hate
+War / Peace
+Friends / Enemies
+Take a risk / Keep safe
+Change your life / Stay in the same place
+Creative / Technical
+Generalist / Specialist
+Fancy / Boring
+Buy it / Build it
+Modify / Create
+Ask for help / Do it yourself
+Prepare first / Do it now
+Cheap / Expensive
+Quality / Quantity
+Local / Global
+Follow the rules / Break the rules
+Realism / Style
+Digital / Analog
+Modern / Traditional
+Government / Opposition
+Establishment / Revolution
+Authority / Rebellion
+All in the same bag / Divide to conquer
+Equal / Different
+Fair / Competitive
+Reward / Punish
+Majority / Minority
+Inclusion / Exclusion
+Lateral / Hierarchy
+Self-Assessment / Peer Review
+Leaders / Teams
+Violence / Communication
+Free / Paid
+Closed / Open
+Proprietary / Open-Source
+Identified / Unidentified
+Important / Pointless
+Easy / Difficult
+Simple / Complex
+Greed / Moderation
+Package / Customizable
+Experience / Security
+Fast / Slow
+Facts / Opinions
+Deterministic / Probabilistic
+Natural / Artificial
+Hot / Cold
+Nature / Nurture
+Genes / Environment
+Necessities / Luxuries
+Maintenance / Development
+Equality / Diversity
+Stagnation / Generativity
