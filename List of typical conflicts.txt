@@ -80,3 +80,5 @@ Order / Chaos
 Ignore / Respond
 Urgent / Non-Urgent
 Relevant / Irrelevant
+Learning / Working
+Theory / Practice
