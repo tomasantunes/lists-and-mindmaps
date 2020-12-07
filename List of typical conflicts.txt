@@ -67,3 +67,4 @@ Young / Old
 Legacy / Edge
 Stable / Beta
 First-hand / Second-hand
+Truth / Lie
