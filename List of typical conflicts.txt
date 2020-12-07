@@ -71,3 +71,4 @@ Genuine / Fake
 Truth / Lie
 True / False
 On / Off
+Original / Copy
