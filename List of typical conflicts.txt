@@ -83,3 +83,4 @@ Relevant / Irrelevant
 Learning / Working
 Theory / Practice
 Education / Experience
+Concrete / Abstract
