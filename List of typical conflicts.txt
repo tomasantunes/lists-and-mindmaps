@@ -66,3 +66,4 @@ Poor / Rich
 Young / Old
 Legacy / Edge
 Stable / Beta
+First-hand / Second-hand
