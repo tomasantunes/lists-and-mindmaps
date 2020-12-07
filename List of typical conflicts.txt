@@ -72,3 +72,7 @@ Truth / Lie
 True / False
 On / Off
 Original / Copy
+Pretty / Ugly
+Clean / Dirty
+Big / Small
+Danger / Safety
