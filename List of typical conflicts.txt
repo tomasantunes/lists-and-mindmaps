@@ -77,3 +77,4 @@ Clean / Dirty
 Big / Small
 Danger / Safety
 Order / Chaos
+Ignore / Respond
