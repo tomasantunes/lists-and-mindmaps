@@ -78,3 +78,5 @@ Big / Small
 Danger / Safety
 Order / Chaos
 Ignore / Respond
+Urgent / Non-Urgent
+Relevant / Irrelevant
