@@ -64,3 +64,5 @@ Equality / Diversity
 Stagnation / Generativity
 Poor / Rich
 Young / Old
+Legacy / Edge
+Stable / Beta
