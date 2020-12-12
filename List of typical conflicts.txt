@@ -91,3 +91,4 @@ Remote / In Person
 Extreme / Balanced
 Optimist / Pessimist
 Trust / Suspicion
+Strict / Tolerant
