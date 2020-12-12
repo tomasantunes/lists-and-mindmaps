@@ -93,3 +93,4 @@ Optimist / Pessimist
 Trust / Suspicion
 Strict / Tolerant
 General / Particular
+Batching / Time-Sharing
