@@ -95,3 +95,4 @@ Strict / Tolerant
 General / Particular
 Batching / Time-Sharing
 Automatic / Manual
+Academia / Industry
