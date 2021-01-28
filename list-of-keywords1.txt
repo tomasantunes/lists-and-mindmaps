@@ -85,6 +85,7 @@
 - Right to repair
 - Accessibility
 - Localization
+- Scalability
 
 # Cybersecurity
 
