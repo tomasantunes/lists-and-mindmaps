@@ -97,3 +97,4 @@ Batching / Time-Sharing
 Automatic / Manual
 Academia / Industry
 Precision / Rounding
+Medication / Therapy
