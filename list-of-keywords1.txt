@@ -29,7 +29,7 @@
 - Minimum Wage
 - Stimulus
 - UBI
-- Anti-Trust
+- Monopolies
 - Charity
 - Cryptocurrency
 - Taxes
@@ -59,6 +59,8 @@
 - Artificial Intelligence
 - Automation
 - Digital Literacy
+- Obsolescence
+- Right to repair
 
 # Cybersecurity
 
