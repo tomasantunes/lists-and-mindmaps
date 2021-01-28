@@ -49,6 +49,7 @@
 - Distance learning
 - Learn programming
 - Learning disabilities
+- Learn languages
 
 # Technology
 
@@ -62,6 +63,7 @@
 - Obsolescence
 - Right to repair
 - Accessibility
+- Localization
 
 # Cybersecurity
 
