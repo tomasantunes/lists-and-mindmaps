@@ -19,6 +19,7 @@
 - Anti-Bullying
 - Crime
 - Curfew
+- Conflict of Interest
 
 # Environment
 
@@ -37,6 +38,17 @@
 - Cryptocurrency
 - Taxes
 - Gambling
+
+# Jobs
+
+- Interviews
+- Job Descriptions
+- Unemployment Benefits
+- Internships
+- Technical Tests
+- Work From Home
+- Certification
+- Performance Review
 
 # Health
 
