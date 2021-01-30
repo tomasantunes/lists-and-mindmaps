@@ -8,6 +8,7 @@
 - IRC
 - Discord
 - Chat
+- E-Mail
 - Forums
 - Youtube
 - Programming
@@ -17,6 +18,7 @@
 - 3D
 - CAD
 - Image Processing
+- Computer Vision
 - Virtual Reality
 - Data Science
 - NLP
@@ -93,3 +95,14 @@
 - GPS
 - Fitness Tracking
 - Health Monitoring
+- Facebook
+- Whatsapp
+- Instagram
+- Snapchat
+- Telegram
+- Signal
+- Reddit
+- Twitter
+- Twitch
+- Patreon
+- Tumblr
