@@ -1,0 +1,94 @@
+- Videogames
+- Social Media
+- Office
+- Spreadsheets
+- Presentations
+- Adobe
+- Search Engine
+- IRC
+- Discord
+- Chat
+- Forums
+- Youtube
+- Programming
+- Graphics
+- Audio
+- Video
+- 3D
+- CAD
+- Image Processing
+- Virtual Reality
+- Data Science
+- NLP
+- Text Processing
+- Data Mining
+- Artificial Intelligence
+- Machine Learning
+- User Interface
+- Augmented Reality
+- Chatbots
+- Quantum Computing
+- IoT
+- Electronics
+- Robotics
+- Energy
+- Web Development
+- Front End
+- Back End
+- Biotech
+- Applications
+- Operating Systems
+- Servers
+- System Administration
+- Project Management
+- Invoicing
+- Budgeting
+- Point of Sale
+- Investing
+- Banking
+- Blogs
+- News
+- Productivity
+- Distance Learning
+- Regulation
+- Privacy
+- Open-Source
+- Cloud
+- Automation
+- Digital Literacy
+- Obsolescence
+- Right to repair
+- Accessibility
+- Localization
+- Scalability
+- Streaming
+- Online Shopping
+- Deliveries
+- Blockchain
+- Questions & Answers
+- Toys
+- Mobile Phone
+- Tablet
+- Pen Tablet
+- Smartwatch
+- Consoles
+- Laptop
+- Desktop
+- Text Editor
+- IDE
+- Drones
+- Television
+- Appliances
+- Gadgets
+- Camera
+- Kinect
+- API
+- Stock Resources
+- Journals
+- Translation
+- Ads
+- Contests
+- Newsletters
+- GPS
+- Fitness Tracking
+- Health Monitoring
