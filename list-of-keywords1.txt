@@ -88,6 +88,7 @@
 - Accessibility
 - Localization
 - Scalability
+- Net Neutrality
 
 # Cybersecurity
 
