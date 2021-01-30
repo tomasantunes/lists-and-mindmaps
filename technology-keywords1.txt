@@ -28,6 +28,7 @@
 - Augmented Reality
 - Chatbots
 - Quantum Computing
+- Cybersecurity
 - IoT
 - Electronics
 - Robotics
