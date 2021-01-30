@@ -109,3 +109,5 @@
 - Stackoverflow
 - Quora
 - Goodreads
+- Github
+- Skype
