@@ -9,6 +9,7 @@
 - Discord
 - Chat
 - E-Mail
+- Podcasts
 - Forums
 - Youtube
 - Programming
