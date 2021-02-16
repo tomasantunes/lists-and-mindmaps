@@ -40,3 +40,4 @@
 - Visual Studio
 - Unity
 - Processing
+- Bash
