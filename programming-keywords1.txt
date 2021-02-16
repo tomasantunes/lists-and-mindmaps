@@ -12,6 +12,11 @@
 - Phaser
 - NEDB
 - MongoDB
+- Node.js
+- Angular
+- Knockoutjs
+- MEAN
+- MERN
 - Python
 - Pandas
 - Matplotlib
