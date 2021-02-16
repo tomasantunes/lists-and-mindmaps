@@ -4,6 +4,7 @@
 - Jquery
 - Bootstrap
 - Semantic.ui
+- Animate.css
 - Electron
 - Cordova
 - Canvas
