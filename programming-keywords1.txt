@@ -2,7 +2,6 @@
 - CSS
 - Javascript
 - Jquery
-- React
 - Bootstrap
 - Semantic.ui
 - Electron
@@ -15,8 +14,12 @@
 - Node.js
 - Angular
 - Knockoutjs
+- React
+- Vue.js
 - MEAN
 - MERN
+- Wordpress
+- PHP
 - Python
 - Pandas
 - Matplotlib
@@ -27,6 +30,8 @@
 - Sqlite3
 - Flask
 - Blender
+- C++
+- Boost
 - SDL
 - OpenGL
 - ImGui
