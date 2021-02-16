@@ -9,6 +9,8 @@
 - Cordova
 - Canvas
 - WebAudioAPI
+- WebGL
+- Three.js
 - Fabric.js
 - Phaser
 - NEDB
