@@ -44,3 +44,5 @@
 - Godot
 - Processing
 - Bash
+- Nginx
+- Apache
