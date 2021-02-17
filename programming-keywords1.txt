@@ -13,6 +13,7 @@
 - Three.js
 - Fabric.js
 - Phaser
+- jsPDF
 - NEDB
 - MongoDB
 - Node.js
