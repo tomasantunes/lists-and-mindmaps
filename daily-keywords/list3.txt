@@ -6,3 +6,4 @@ SPACs
 E-Ink
 Tiger Woods
 Escolas Fechadas
+Starlink
