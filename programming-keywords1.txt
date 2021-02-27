@@ -14,6 +14,8 @@
 - Fabric.js
 - Phaser
 - jsPDF
+- html2canvas
+- Flot Charts
 - NEDB
 - MongoDB
 - Node.js
