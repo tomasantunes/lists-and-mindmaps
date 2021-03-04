@@ -98,3 +98,4 @@ Automatic / Manual
 Academia / Industry
 Precision / Rounding
 Medication / Therapy
+Humanist / Materialist
