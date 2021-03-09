@@ -4,6 +4,8 @@ Collect information
 Upload Information
 Feedback
 Updating
+Relevance
+Newsworthy
 Associations
 Mix
 Applications in other fields
