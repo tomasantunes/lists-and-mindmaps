@@ -22,3 +22,5 @@ Couch
 Bookshelf
 Dining Table
 Chairs
+Microwave
+Coffeemaker
