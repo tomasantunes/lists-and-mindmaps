@@ -1,0 +1,5 @@
+Coca-Cola / Pepsi
+McDonald's / Burger King
+Apple / Microsoft
+Intel / AMD
+Unreal / Unity
