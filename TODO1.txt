@@ -9,6 +9,7 @@ TO-DO:
 - Learn Next.js
 - Learn Vue.js
 - Learn OpenCV
+- Install Qt
 - Install AngularJS
 - Learn Rust
 - Learn Haskell
