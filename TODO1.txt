@@ -1,0 +1,15 @@
+TO-DO:
+
+- Learn SQLAlchemy
+- Learn Discord.js
+- Learn Google Colab
+- Learn Heroku
+- Learn Kivy MD
+- Learn MaterialUI
+- Learn Next.js
+- Learn Vue.js
+- Learn OpenCV
+- Install AngularJS
+- Learn Rust
+- Learn Haskell
+- Learn Lisp
