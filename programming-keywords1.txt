@@ -16,6 +16,7 @@
 - jsPDF
 - html2canvas
 - Flot Charts
+- Slick
 - NEDB
 - MongoDB
 - Node.js
