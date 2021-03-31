@@ -1,0 +1,323 @@
+- The Lion King
+- Snow White and the Seven Dwarfs
+- The Little Mermaid
+- Pinocchio
+- Aladdin
+- Beauty and the Beast
+- The Prince and the Pauper
+- A Goofie Movie
+- Fantasia
+- A Bug’s Life
+- Shrek
+- Shrek 2
+- Toy Story
+- Toy Story 2
+- Finding Nemo
+- Monsters, Inc.
+- Antz
+- Chicken Run
+- The Prince of Egypt
+- The Road to El Dorado
+- Madagascar
+- Over the Hedge
+- Kung Fu Panda
+- The Incredibles
+- Harry Potter and the Sorcerer’s Stone
+- Lord of the Rings Trilogy
+- Psycho
+- Vertigo
+- Gladiator
+- Inception
+- Forrest Gump
+- The Pianist
+- American History X
+- American Beauty
+- Batteries Not Included
+- Bill & Ted’s Excellent Adventure
+- Donnie Darko
+- Twelve Monkeys
+- Prince of Persia: The Sands of Time
+- The Wizard of Oz
+- Jaws
+- Terminator
+- Pirates of the Caribbean
+- Blade Runner 2049
+- Life of Brian
+- Dead Poets Society
+- Jurassic Park
+- Before Sunrise
+- Before Sunset
+- La Haine
+- The Big Lebowski
+- The Sixth Sense
+- Monsters, Inc.
+- Fight Club
+- Finding Nemo
+- Kill Bill: Vol 1
+- Million Dollar Baby
+- No Country for Old Men
+- There will be blood
+- Into the Wild
+- The Grand Budapest Hotel
+- Pulp Fiction
+- Harold and Kumar go to Whitecastle
+- Harold and Kumar escape from Guantanamo Bay
+- Sunshine
+- Back to the Future Trilogy
+- The Godfather Trilogy
+- Ocean’s Eleven
+- Ocean’s Twelve
+- Jumanji
+- Night at the museum
+- Rush Hour
+- Hero
+- Crouching Tiger Hidden Dragon
+- House of Flying Daggers
+- Flubber
+- Blueberry Nights
+- Fallen Angels
+- Chungking Express
+- Goodfellas
+- Lock Stock and Two Smoking Barrels
+- Snatch
+- Rock n' Rolla
+- Última Parada 174
+- Reservoir Dogs
+- Merlin
+- Taxi
+- The Matrix Trilogy
+- Animatrix
+- Amélie
+- Inglorious Basterds
+- A Beautiful Mind
+- Trainspotting
+- Lost highway
+- Blue Velvet
+- Mulholland Drive
+- Blow Up
+- 10 Things I hate about you
+- Ratatouille
+- Rounders
+- Fast and Furious
+- Zona J
+- Dragon Heart
+- Joy Division
+- 24 Hour Party People
+- O carteiro de Pablo Neruda
+- Contacto
+- The girl with the pearl earring
+- Last Castle
+- Horrible Bosses
+- The girl who stole a book
+- I Am Legend
+- E. T. - extra-terrestrial
+- American Pie
+- A perfect world
+- Natural Born Killers
+- Edward Scissorhands
+- Charlie and the chocolate factory
+- Nightmare Before Christmas
+- Mars Attacks
+- The Corpse Bride
+- Planet of the Apes
+- Mars attacks!
+- Coraline
+- Prestige
+- Ghost in the shell
+- Vermeer
+- Pollock
+- Jim Morrison
+- District 9
+- Constantine
+- Who framed Roger Rabbit
+- Il postino
+- Sherlock Holmes
+- Star Wars - A new Hope
+- Star Wars - The empire strikes back
+- Star Wars - Return of the Jedi
+- Star Wars - The Phantom Menace
+- Star Wars - Attack of the clones
+- Star Wars - Revenge of the Sith
+- Star Wars - The force awakens
+- Star Wars - The last jedi
+- Being John Malkovich
+- Blood Diamond
+- The Green Mile
+- Friday
+- Jackie Brown
+- Do the Right Thing
+- Jungle Fever
+- Ghost Busters
+- The Adventures of Robin Hood
+- Equilibrium
+- Aeon Flux
+- Ex Machina
+- Elysium
+- Transcendence
+- The 9th Gate
+- Soulplane
+- Superbad
+- Juno
+- Closer
+- Crash
+- Training Day
+- Fast and Furious
+- Into the Blue
+- Batman & Robin
+- Batman - The Dark Knight
+- Spiderman 1
+- Spiderman 2
+- Independence Day
+- Seven
+- Alien
+- MIB: Men in Black
+- MIB: Men in Black 2
+- Vanilla Sky
+- Dead Poet Society
+- Bad Boys
+- Titanic
+- Transformers
+- Monty Python and the Holy Grail
+- Monty Python and the Life of Brian
+- Babe
+- Babe 2
+- The Shining
+- The Others
+- BOP Tropa de Elite
+- Michael Clayton
+- Erin Brokovich
+- 28 Days Later
+- Zodiac
+- Gothika
+- Parasite
+- Ironman
+- Armageddon
+- The Social Network
+- Black cat, white cat
+- Life is a miracle
+- La Belle Histoire
+- The Gleaners and I
+- Human traffic
+- The Addams Family
+- Capitães de Abril
+- Adeus Pai
+- Blow
+- Blow up
+- Life is beautiful
+- Vice (2015)
+- Fahrenheit 451 (1966)
+- Fahrenheit 911
+- Bad day at Black Rock
+- A Scanner Darkly
+- Waking Life
+- The good, the bad, the weird
+- The exorcist
+- Cool Runnings
+- Asterix & Obelix
+- Asterix & Obelix - Cleopatra
+- Mallrats
+- Clerks
+- Stargate
+- Cube
+- Dogma
+- Tomb Raider
+- Mission: Impossible
+- Spy Game
+- Spy Kids
+- Mr. Bean
+- Druids
+- The 13th Warrior
+- The Theory of Everything
+- Yamakasi (2001)
+- Limitless
+- Lucy
+- The Butterfly Effect
+- 21
+- Step up
+- Home alone
+- Home alone 2
+- Home alone 3
+- Richie Rich
+- Bio-Dome
+- Office Space
+- Anaconda
+- Scorpion King
+- Mummy
+- Bourne Identity
+- Bourne Supremacy
+- Jingle all the way
+- Shenzhen: The Silicon Valley of Hardware
+- The Social Dilemma
+- The History of Videogames
+- The Unauthorized History of Videogames
+- A Brief History of Graphics
+- A Brief History of Videogames
+- The Code: Story of Linux
+- Sell & Spin: A History of Advertising
+- The History of id Software
+- AlphaGo: The Movie
+- The Boy With The Incredible Brain
+- Honey, I shrunk the kids
+- Moulin Rouge
+- Little Buddha
+- Asoka
+- Raiders of the Lost Ark
+- What the bleep do we know?
+- Mystic River
+- Gone in 60 Seconds
+- Shottas
+- Queen of the Damned
+- Blade
+- Blade 2
+- The Beach
+- The Ring
+- Dark Water
+- The Blair Witch Project
+- Shrooms
+- The Departed
+- Order and Disorder: Information (Jim Al-Khalili)
+- The Day After Tomorrow
+- Red (2010)
+- Playing Hard
+- Resident Evil
+- Dragonheart
+- Sierra Online Documentary
+- Print the Legend
+- The Great Hack
+- The History of Nintendo
+- The Internet's Own Boy: The Story of Aaron Swartz
+- The Hangover
+- South Park: Bigger, Longer and Uncut
+- Requiem For a Dream
+- K-Pax
+- Legally Blonde
+- Steve Jobs (2015)
+- The Art of The Algorithms
+- Indie Game: The Movie
+- Lord of War
+- Now You See Me
+- The Hitchhiker's Guide To The Galaxy
+- The Making Of République
+- History of the Internet - BBC Documentary 2018
+- The Hater
+- 23
+- Shoot 'Em Up - 2007
+- Billy Elliot
+- Small Soldiers
+- Love Actually
+- Little Miss Sunshine
+- Road Trip
+- Y Tu Mamá También
+- Triple X
+- Pitch Black
+- Chronicles of Riddick
+- Riddick 2
+- Hollow Man
+- The Creative Brain
+- There's Something About Mary
+- Miss Congeniality
+- You Don't Mess With The Zohan
+- Ali G Indahouse
+- Ghost Dog
+- Half Baked
+- Banana Republic
