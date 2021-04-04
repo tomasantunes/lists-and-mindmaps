@@ -1,0 +1,20 @@
+### Roadmap
+
+- Splines
+- Extrude
+- Bevel
+- Texture Mapping
+- Particles
+- Show/Hide
+- Move Vertices
+- Rotate Vertices
+- Scale Vertices
+- Gizmos
+- Loop Cuts
+- Select Multiple Objects
+
+**Modifiers**
+
+- Boolean
+- Array
+- Mirror
