@@ -3,8 +3,14 @@ Quiz #2
 Q: How do you scale an object relative to it's own origin?
 A: The scale operation usually acts relative to the world origin, we need to translate the object to the world origin, apply the scale operation and then translate it back to it's position.
 
+Q: How does the vertex shader compute the position of a point on the screen?
+A: The shader multiplies the model, view and projection matrices with the point's position.
+
 Q: How do you define the camera's position?
-A: OpenGL provides a function called lookAt which takes 3 parameters: The position of the camera, the target or center of the view and the up direction.
+A: OpenGL provides a function called lookAt which takes 3 parameters: The position of the camera, the target or center of the view and the up direction. That's how we get our view matrix.
+
+Q: How do you define the projection matrix?
+The projection can be orthogonal or perspective. The perspective projection matrix is usually specified through four parameters: field of view, aspect ratio, near and far. Where near and far represent the positions of the near and far clipping planes.
 
 Q: How do you find the center of a set of points?
 A: Loop throught the points and get the min and max value for each coordinate x, y and z. Take the average of the two points and you get the center.
