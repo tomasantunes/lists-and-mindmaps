@@ -25,4 +25,10 @@ Q: How do you scale an object?
 A: Loop through each point and multiply by the scale factor in x, y and z.
 
 Q: How do I define the geometry of my object?
-A: The geometry is usually defined in triangles. With OpenGL we can use Immediate Mode where we call functions to draw each vertex. Or we can use the Vertex Buffer Object where we have an array of vertices and an array of indices to specify the order on which we draw the vertices. You should render your triangles in counter-clockwise order for them to be visible or clockwise for them to be hidden. We can also define normals, colors and texture coordinates. 
+A: The geometry is usually defined in triangles. With OpenGL we can use Immediate Mode where we call functions to draw each vertex. Or we can use the Vertex Buffer Object where we have an array of vertices and an array of indices to specify the order on which we draw the vertices. You should render your triangles in counter-clockwise order for them to be visible or clockwise for them to be hidden. We can also define normals, colors and texture coordinates.
+
+Q: How do I get the angle between two vectors?
+With the dot product.
+
+Q: How do I the vector perpendicular to two other vectors?
+With the cross product.
