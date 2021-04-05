@@ -26,6 +26,5 @@
 - Create Render Class
 - Create Interface Class
 - Create Shader Files
-- Fix absolute paths
 
 Link: https://corydalis.itch.io/3dbox
