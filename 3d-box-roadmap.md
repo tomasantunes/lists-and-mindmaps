@@ -1,5 +1,7 @@
 ### Roadmap
 
+- Select Edges
+- Select Faces
 - Splines
 - Extrude
 - Bevel
