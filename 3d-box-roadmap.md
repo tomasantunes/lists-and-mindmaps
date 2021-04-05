@@ -1,6 +1,5 @@
 ### Roadmap
 
-- Fix Scale
 - Splines
 - Extrude
 - Bevel
