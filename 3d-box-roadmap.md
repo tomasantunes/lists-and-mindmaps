@@ -1,8 +1,5 @@
 ### Roadmap
 
-- Move Multiple Objects
-- Rotate Multiple Objects
-- Scale Multiple Objects
 - Box Select With Marquee
 - Select Edges
 - Select Faces
