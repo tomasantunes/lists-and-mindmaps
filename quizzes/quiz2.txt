@@ -33,5 +33,5 @@ A: With the dot product.
 Q: How do I the vector perpendicular to two other vectors?
 A: With the cross product.
 
-Q: How do I pick objects with the mouse?
+Q: How do I select points with the mouse?
 A: GLM has a function called unProject where you input the mouse position and the viewport. You get two points that cast a ray from your mouse to the scene. With the function closestPointOnLine you can see which point is closer to your mouse cursor.
