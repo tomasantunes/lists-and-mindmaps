@@ -1,5 +1,7 @@
 ### Roadmap
 
+- Select Multiple Objects
+- Box Select With Marquee
 - Select Edges
 - Select Faces
 - Splines
@@ -10,7 +12,6 @@
 - Show/Hide
 - Gizmos
 - Loop Cuts
-- Select Multiple Objects
 - Materials
 - Lights
 
@@ -22,7 +23,7 @@
 
 **Refactor**
 
-- Remove Vector3D
+- Replace Vector3D with glm::vec3
 - Create Empty Template
 - Create Render Class
 - Create Interface Class
