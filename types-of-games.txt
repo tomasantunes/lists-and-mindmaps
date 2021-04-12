@@ -1,0 +1,47 @@
+- Platformer
+- Shooter
+- Fighting
+- Beat-em up
+- Stealth
+- Survival
+- Survival horror
+- Rhythm
+- Metroidvania
+- Text adventure
+- Graphic adventure
+- Visual novel
+- Interactive movie
+- Action RPG
+- MMORPG
+- Roguelike
+- Tactical RPG
+- Open-world RPG
+- First-person party-based RPG
+- Construction simulation
+- Management simulation
+- Life simulation
+- Flight simulation
+- Vehicle simulation
+- 4X
+- Artillery
+- RTS
+- RTT
+- MOBA
+- Tower Defense
+- Turn-based strategy
+- Turn-based tactics
+- Wargame
+- Racing
+- Team sports
+- Logic game
+- Trivia game
+- Idle game
+- Casual
+- Programming game
+- Board game
+- Card game
+- Advergame
+- Art game
+- Educational game
+- Exercise game
+
