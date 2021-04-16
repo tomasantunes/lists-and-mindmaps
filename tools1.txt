@@ -29,3 +29,9 @@
 - Spirograph
 - Particle System
 - Origami Editor
+- Animated Shaders
+- Water Effect
+- Lava Effect
+- Energy Field Effect
+- Bolt Visual Scripting
+- Music Visualization
