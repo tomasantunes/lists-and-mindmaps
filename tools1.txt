@@ -35,3 +35,4 @@
 - Energy Field Effect
 - Bolt Visual Scripting
 - Music Visualization
+- Ray Tracing
