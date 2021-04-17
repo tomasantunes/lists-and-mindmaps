@@ -1,4 +1,5 @@
 - Learning
+- Books
 - Video-Games
 - News
 - Stackoverflow
