@@ -122,3 +122,4 @@
 - The Black Swan - Nassim Nicholas Taleb
 - Think Again - Adam Grant
 - To Pixar And Beyond - Lawrence Levy
+- Core Blender Development - Brad E. Hollister
