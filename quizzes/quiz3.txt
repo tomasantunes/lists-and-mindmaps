@@ -1,0 +1,8 @@
+- What language should I choose to start learning programming?
+- Do I need to know math to learn programming?
+- How do I create an interface for my program?
+- Which libraries should I use?
+- Do I need to code to make an app?
+- What course should I take to learn programming?
+- What books do you recommend about programming?
+- What should I do if I get stuck on a problem?
