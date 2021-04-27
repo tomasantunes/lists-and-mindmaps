@@ -1,0 +1,4 @@
+25/04/2021
+
+- Multi-user computers can be mainframes, minicomputers or supercomputers.
+- Dedicated computers can be desktops, laptops or mobile devices.
