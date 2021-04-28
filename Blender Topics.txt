@@ -16,8 +16,11 @@ Blender Topics
 - Lighting
 - Materials
 - Textures
+- Texture Painting
 - Rigging
 - Animation
+- Compositor
+- Video Editor
 - Fluids
 - Liquids
 - Gas
