@@ -16,6 +16,7 @@ Blender Topics
 - Materials
 - Textures
 - Rigging
+- Animation
 - Fluids
 - Liquids
 - Gas
