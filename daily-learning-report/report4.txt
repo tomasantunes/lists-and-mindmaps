@@ -1,0 +1,4 @@
+28/04/2021
+
+- N-Gons can cause glitches in your mesh. Triangles and quads are preferred. In Blender you use Ctrl+T to triangulate a face and we can convert tris to quads with Alt+J.
+https://www.creativeshrimp.com/ngons-tutorial.html
