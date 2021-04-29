@@ -25,4 +25,4 @@ CGI Topics
 - Voxels
 - Creating life
 - Sedentarism
-- Upload your consciousness
+- Smoke and Mirrors
