@@ -28,3 +28,5 @@ CGI Topics
 - Creating life
 - Sedentarism
 - Smoke and Mirrors
+- Fake imagery
+- Retouching
