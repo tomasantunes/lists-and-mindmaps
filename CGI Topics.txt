@@ -24,6 +24,7 @@ CGI Topics
 - Raytracing
 - Matte Painting
 - VFX
+- Motion Capture
 - Voxels
 - Creating life
 - Sedentarism
