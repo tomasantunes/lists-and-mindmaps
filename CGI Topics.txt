@@ -30,3 +30,4 @@ CGI Topics
 - Smoke and Mirrors
 - Fake imagery
 - Retouching
+- Forensics
