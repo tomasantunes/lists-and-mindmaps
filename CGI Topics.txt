@@ -23,3 +23,5 @@ CGI Topics
 - Raycasting
 - Raytracing
 - Voxels
+- Creating life
+- Sedentarism
