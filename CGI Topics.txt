@@ -31,3 +31,4 @@ CGI Topics
 - Fake imagery
 - Retouching
 - Forensics
+- Motion Sickness
