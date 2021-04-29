@@ -22,6 +22,8 @@ CGI Topics
 - Real-Time Rendering
 - Raycasting
 - Raytracing
+- Matte Painting
+- VFX
 - Voxels
 - Creating life
 - Sedentarism
