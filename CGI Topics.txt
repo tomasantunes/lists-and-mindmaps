@@ -45,4 +45,5 @@ CGI Topics
 - Terminator 2
 - Virtual Reality
 - Augmented Reality
+- Pierre Bézier
 
