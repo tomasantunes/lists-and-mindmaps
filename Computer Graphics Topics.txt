@@ -1,4 +1,4 @@
-CGI Topics
+Comptuer Graphics Topics
 
 - Edward Catmull
 - John Lasseter
@@ -64,3 +64,5 @@ CGI Topics
 - Godzilla (1998)
 - X-Men: The Last Stand (2006)
 - Captain America: The First Avenger (2011)
+- Casper (1995)
+- Dragonheart (1996)
