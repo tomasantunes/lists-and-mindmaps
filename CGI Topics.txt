@@ -46,4 +46,5 @@ CGI Topics
 - Virtual Reality
 - Augmented Reality
 - Pierre Bézier
+- University of Utah
 
