@@ -47,4 +47,5 @@ CGI Topics
 - Augmented Reality
 - Pierre Bézier
 - University of Utah
+- Silicon Graphics
 
