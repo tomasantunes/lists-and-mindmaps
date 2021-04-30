@@ -1,6 +1,7 @@
 CGI Topics
 
 - Edward Catmull
+- John Lasseter
 - Pixar
 - Tron
 - Avatar
@@ -34,3 +35,14 @@ CGI Topics
 - Forensics
 - Motion Sickness
 - Optical Illusions
+- Industrial Light & Magic
+- Paramount
+- Star Trek II: The Wrath of Khan
+- Beauty and the Beast
+- Jurassic Park
+- Steven Spielberg
+- Young Sherlock Holmes
+- Terminator 2
+- Virtual Reality
+- Augmented Reality
+
