@@ -1,0 +1,3 @@
+04/05/2021
+
+- Z-Fighting is what we call the glitch we get when two coplanar faces are overlapping.
