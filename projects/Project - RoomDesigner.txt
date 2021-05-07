@@ -38,5 +38,6 @@ TO-DO:
     - Oven
     - Microwave
 - Electronics
-    - TV
+    - Speakers
+    - Turntable
 - Floor
