@@ -1,0 +1,31 @@
+RoomDesigner
+
+DONE:
+- Cabinet
+- Chair
+2x Doors
+- Fireplace
+- Shelf
+- Bookcase
+3x Tables
+2x Benches
+- Vase
+- Screen
+- Computer
+- Keyboard
+- Mouse
+- Cardbox
+- Cupboard
+- Easel
+- Jar
+- Lamp
+- Tray
+- Pinball Machine
+
+TO-DO:
+- Windows
+- Doors
+- Furniture
+- Appliances
+- Electronics
+- Floor
