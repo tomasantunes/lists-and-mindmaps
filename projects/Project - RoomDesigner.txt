@@ -26,6 +26,7 @@ DONE:
 - Bedside table
 - Window
 - Turntable
+- Heater
 
 TO-DO:
 - Windows
@@ -34,7 +35,6 @@ TO-DO:
     - Small Table
     - Closet
 - Appliances
-    - Heater
     - Fridge
     - Oven
     - Microwave
