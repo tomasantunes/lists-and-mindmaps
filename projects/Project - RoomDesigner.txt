@@ -8,7 +8,7 @@ DONE:
 - Shelf
 - Bookcase
 3x Tables
-2x Benches
+2x Stools
 - Vase
 - Screen
 - Computer
@@ -18,14 +18,25 @@ DONE:
 - Cupboard
 - Easel
 - Jar
-- Lamp
+2x Lamps
 - Tray
 - Pinball Machine
+- Audio Player
+- Bed
+- Bedside table
+- Window
 
 TO-DO:
 - Windows
 - Doors
 - Furniture
+    - Small Table
+    - Closet
 - Appliances
+    - Heater
+    - Fridge
+    - Oven
+    - Microwave
 - Electronics
+    - TV
 - Floor
