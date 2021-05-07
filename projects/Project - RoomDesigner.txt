@@ -25,6 +25,7 @@ DONE:
 - Bed
 - Bedside table
 - Window
+- Turntable
 
 TO-DO:
 - Windows
@@ -39,5 +40,4 @@ TO-DO:
     - Microwave
 - Electronics
     - Speakers
-    - Turntable
 - Floor
