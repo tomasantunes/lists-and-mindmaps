@@ -40,4 +40,5 @@ TO-DO:
     - Microwave
 - Electronics
     - Speakers
+    - Laptop
 - Floor
