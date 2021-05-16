@@ -1,0 +1,54 @@
+# The Abyss Dungeon
+
+### Characters
+
+- Warrior
+- Mage
+- Thief
+- Goblin
+- Ogre
+- Zombie
+- Dragon
+- Skeleton
+- Bear
+- Wolf
+- Horse
+
+### Maps
+
+- Village
+- Forest
+- Cave
+- Castle
+- Graveyard
+
+### Inventory
+
+- Sword
+- Bow and Arrows
+- Axe
+- Staff
+- Crossbow
+- Heavy Armor
+- Magic Ring
+- Healing Potion
+
+### Objects
+
+- Door
+- Weapon Rack
+- Chest
+- Torch
+- Bookcase
+- Table
+- Chair
+- Bed
+- Counter
+- Barrel
+- Fireplace
+- Pedestal
+- Altar
+- Tree
+- Grave
+- Well
+- Crate
