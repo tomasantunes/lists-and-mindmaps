@@ -13,6 +13,7 @@
 - Bear
 - Wolf
 - Horse
+- Spider
 
 ### Maps
 
