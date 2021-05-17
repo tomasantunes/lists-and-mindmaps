@@ -1,0 +1,35 @@
+# Character Clothing
+
+- Short-Sleeve Shirt
+- Long-Sleeve Shirt
+- Pants
+- Shorts
+- Shoes
+- Boots
+- Sandals
+- Flip-flops
+- Jacket
+- Chainmail
+- Leather Armor
+- Heavy Armor
+- Breast Plate
+- Hat
+- Helmet
+- Pouch
+- Belt
+- Shoulder Pads
+- Knee Pads
+- Elbow Pads
+- Backpack
+- Gloves
+- Scarf
+- Tunic
+- Satchel
+- Robe
+- Glasses
+- Goggles
+- Bandana
+- Mask
+- Dress
+- Apron
+- Skirt
