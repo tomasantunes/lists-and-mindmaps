@@ -33,3 +33,4 @@
 - Dress
 - Apron
 - Skirt
+- Corset
