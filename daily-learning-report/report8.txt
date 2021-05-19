@@ -1,0 +1,3 @@
+19/05/2021
+
+- Meshes with mirror and subsurface modifier can't have faces on the inside because it will create a seam in the middle.
