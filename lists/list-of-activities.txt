@@ -90,3 +90,4 @@
 - Bookbinding
 - Beadsprites
 - Balloon Animals
+- Yoga
