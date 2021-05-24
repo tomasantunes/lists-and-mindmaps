@@ -1,0 +1,3 @@
+24/05/2021
+
+- You need to apply mirror modifiers before rigging a character.
