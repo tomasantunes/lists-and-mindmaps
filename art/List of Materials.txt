@@ -42,3 +42,4 @@
 - Liquid
 - Cotton
 - Concrete
+- Clay
