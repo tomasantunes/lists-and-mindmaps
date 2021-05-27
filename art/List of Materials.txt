@@ -3,6 +3,15 @@
 - Wood
 - Stone
 - Metal
+- Iron
+- Steel
+- Bronze
+- Tin
+- Copper
+- Silver
+- Gold
+- Titanium
+- Rust
 - Skin
 - Cloth
 - Plastic
