@@ -54,3 +54,4 @@
 - Concrete
 - Clay
 - Plaster
+- Rubber
