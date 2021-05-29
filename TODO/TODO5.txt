@@ -8,3 +8,4 @@
 - FreeCodeCamp
 - Stackoverflow
 - The Abyss Dungeon
+- Walter Lewin Physics lectures
