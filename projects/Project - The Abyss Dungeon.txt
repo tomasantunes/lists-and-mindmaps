@@ -1,41 +1,52 @@
 # The Abyss Dungeon
 
-### Characters
+### Tasks
 
-- Warrior
-- Mage
-- Thief
-- Goblin
-- Ogre
-- Zombie
-- Dragon
-- Skeleton
-- Bear
-- Wolf
-- Horse
-- Spider
+TO-DO:
+- Armor
+- Running
+- Jumping
+- Ranged Weapon
+- World Map
 
 ### Maps
 
-- Village
-- Forest
-- Cave
-- Castle
-- Graveyard
+DONE:
+- Denton Woods
+- Denton Fortress
+- Denton Town
 
-### Inventory
+TO-DO:
+- Road to Kramborg
+- Road to the Temple of Light
+- Road to the Denton Graveyard
+- Kramborg town
+- Temple of Light
+- Denton Graveyard
 
+
+### Items
+
+DONE:
 - Sword
+- Healing Potion
+- Book
+- Gold Pile
+- Diamond
+
+TO-DO:
+- Heavy Armor
+- Leather Armor
+- Robe
 - Bow and Arrows
 - Axe
 - Staff
 - Crossbow
-- Heavy Armor
 - Magic Ring
-- Healing Potion
 
 ### Objects
 
+TO-DO:
 - Door
 - Weapon Rack
 - Chest
