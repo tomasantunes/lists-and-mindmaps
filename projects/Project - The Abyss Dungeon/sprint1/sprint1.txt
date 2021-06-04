@@ -1,0 +1,11 @@
+
+DONE:
+- Warrior
+- Goblin
+- Bear
+- Ogre
+- Zombie
+- Skeleton
+- Dog
+- Spider
+- Horse

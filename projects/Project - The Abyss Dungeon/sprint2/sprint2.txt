@@ -1,0 +1,12 @@
+DONE:
+- Sword
+- Healing Potion
+- Book
+- Gold Pile
+- Diamond
+- Heavy Armor
+- Bow and Arrows
+- Crossbow
+- Denton Woods
+- Denton Fortress
+- Denton Town
