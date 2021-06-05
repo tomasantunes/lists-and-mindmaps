@@ -66,3 +66,4 @@ Icon=/home/user1/Documents/Godot-executable/icon.png
 var velocity: float
 ```
 - Stretch Mode "2d" is now called "canvas_items"
+- GDScript 2.0 https://github.com/godotengine/godot/pull/39093
