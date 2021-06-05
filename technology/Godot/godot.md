@@ -56,3 +56,12 @@ Comment=2D and 3D game engine
 Exec=/home/user1/Documents/Godot-executable/Godot_v3.0.6-stable_x11.64
 Icon=/home/user1/Documents/Godot-executable/icon.png
 ```
+
+# Godot 4.0 changes
+
+- Texture repeat flag is no longer in the import settings.
+- To export variables you need to use annotations combined with typing:
+```
+@export
+var velocity: float
+```
