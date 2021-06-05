@@ -65,3 +65,4 @@ Icon=/home/user1/Documents/Godot-executable/icon.png
 @export
 var velocity: float
 ```
+- Stretch Mode "2d" is now called "canvas_items"
