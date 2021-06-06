@@ -1,0 +1,45 @@
+# Gamedev
+
+Pros:
+- You get a product at the end.
+- Funny characters and objects.
+- Interactive
+- You get to make videos
+
+Cons:
+- Takes a long time
+
+# Blender
+Pros:
+- You get a picture or an animation
+- You can make assets
+
+Cons:
+
+# Applications
+Pros:
+- You get a product at the end.
+
+Cons:
+- Very specific use-cases
+
+# 3D-Box
+Pros:
+- You get to learn about graphics
+
+Cons:
+- More bugs
+
+# OpenGL
+Pros:
+- You get to learn about graphics
+
+Cons:
+- More bugs
+
+# Godot
+Pros:
+- You get to learn about engines
+
+Cons:
+- More bugs
