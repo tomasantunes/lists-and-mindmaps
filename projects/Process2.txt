@@ -1,0 +1,9 @@
+Game Development Process
+
+- Idea
+- Game Design Document
+- Create Assets
+- Import to Unity
+- Program Game Logic
+- Add Levels
+- Release
