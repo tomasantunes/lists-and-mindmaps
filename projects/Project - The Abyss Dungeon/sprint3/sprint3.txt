@@ -1,7 +1,8 @@
 TO-DO:
-- Insert skeletons
 
 DONE:
+- Insert skeletons
+- Shop System
 - Insert zombies
 - Denton Graveyard
 - Road to the Denton Graveyard
