@@ -1,9 +1,9 @@
 TO-DO:
-- Denton Graveyard
-- Insert zombies
 - Insert skeletons
 
 DONE:
+- Insert zombies
+- Denton Graveyard
 - Road to the Denton Graveyard
 - Leather Armor
 - Stella
