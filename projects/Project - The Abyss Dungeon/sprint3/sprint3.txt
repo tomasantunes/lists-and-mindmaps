@@ -1,4 +1,7 @@
 TO-DO:
+- Road to Kramborg
+- Kramborg Town
+- Add ogre
 
 DONE:
 - Insert skeletons
