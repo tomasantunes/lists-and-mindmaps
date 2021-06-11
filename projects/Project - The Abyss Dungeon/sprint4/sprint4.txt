@@ -1,0 +1,8 @@
+TO-DO:
+- Entrance to dungeon
+- Dungeon
+- Shopkeeper
+- Priest
+- Forest
+- Add skeletons
+- Add enemies and items to dungeon

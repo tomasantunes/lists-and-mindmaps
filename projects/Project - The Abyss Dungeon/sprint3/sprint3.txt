@@ -12,3 +12,5 @@ DONE:
 - Road to the Denton Graveyard
 - Leather Armor
 - Stella
+- Temple of Light
+- Road to Temple of Light
