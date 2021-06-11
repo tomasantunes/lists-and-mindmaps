@@ -1,9 +1,10 @@
 TO-DO:
+
+
+DONE:
 - Road to Kramborg
 - Kramborg Town
 - Add ogre
-
-DONE:
 - Insert skeletons
 - Shop System
 - Insert zombies
