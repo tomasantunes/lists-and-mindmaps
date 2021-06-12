@@ -1,4 +1,4 @@
-TO-DO:
+DONE:
 - Entrance to dungeon
 - Dungeon
 - Shopkeeper
