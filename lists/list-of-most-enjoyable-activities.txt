@@ -1,8 +1,11 @@
 - Drugs
 - Sex
 - Meditation
+- Talking
 - Music
 - TV
+- Solving a puzzle
+- Expressing your ideas
 - Video-Games
 - Games
 - Gambling
@@ -17,7 +20,6 @@
 - Being a leader
 - Live shows
 - Competing
-- Solving a puzzle
 - Swimming
 - Having a massage
 - Hot tub
