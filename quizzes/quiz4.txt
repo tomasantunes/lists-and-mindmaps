@@ -1,0 +1,22 @@
+Q: Why do we dislike realistic robots and CGI?
+A: Because of the Uncanny Valley effect. As the appearance of a robot is made more human, some observers' emotional response to the robot becomes increasingly positive and empathetic, until it reaches a point beyond which the response quickly becomes strong revulsion.
+
+Q: Is technology the solution to the world's problems?
+A: Technology has been around for a long time, and will continue to be around as long as there are humans (or great apes -- see my editorial in issue #5). But we have come to a point where we need to make some decisions about technology. Until now the philosophy has been: if we can build it, we should build it. To take an obvious example, many people are realizing that maybe we shouldn't have all these nuclear bombs sitting around.
+
+There will always be some people who will try to convince us that we should go "back to nature" and reject whole swaths of technology. These people tell us that technology makes jobs obsolete, pollutes the earth, and destroys our relationship with nature. All true. But I don't think most of us are going to go build a log cabin in the wilderness. And I don't think we need to do that.
+
+There will also always be some people who will try to convince us that any new technology is great and we should embrace it wholeheartedly. These people tell us that technology creates new kinds of jobs, solves problems more efficiently, and gives us more leisure time. All true. But we have been embracing new technologies, as a culture, and that strategy isn't working.(http://challengingdestiny.com/editorials/editorial7.htm)
+
+Q: Can we simulate the universe?
+A: No. Even with an incredibly powerful computer, scientists could never perfectly simulate the entire universe in a computer. There are a few reasons for this. 
+    - The universe is non-deterministic. 
+    - The universe is most likely infinite.
+    - The computer is part of the universe.
+    - We cannot know the state of the entire universe.
+(https://wtamu.edu/~cbaird/sq/2014/09/15/could-scientists-perfectly-simulate-the-entire-universe-in-a-computer-down-to-the-last-atom/#:~:text=The%20computer%20is%20part%20of%20the%20universe.%20The,itself%20running%20a%20perfect%20simulation%20of%20the%20universe.)
+
+Q: Can we live in a virtual world?
+A: Ultimately, if our minds are unreliable and reality as we understand it is simply a shared hallucination, does it matter? If what you see as a table is the same thing everyone else sees as a table, would it make a difference if the object were actually a chair? While this example is an over-simplification of the problem, it's a good illustration. If our perception of the world depends entirely upon our interpretation of sensory input, doesn't that make it reality to us?
+
+A pragmatist might say that without being able to step outside the human experience and perceive reality in an objective way, it's impossible to say if what we think of as real is representative of true reality. There's no way we know of to wake up from the shared dream or emerge from the matrix. That could mean we're permanently stuck in an illusion or it could mean that our perceptions actually match up to reality and there's no illusion there in the first place. Perception and reality are the same as far as we're concerned. (https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/virtual-world.htm)
