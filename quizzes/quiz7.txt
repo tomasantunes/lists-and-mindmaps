@@ -1,0 +1,4 @@
+- Should we collect data regularly?
+- How much data should we collect?
+- What kind of data should we collect?
+- Does collecting data take time away from your work?
