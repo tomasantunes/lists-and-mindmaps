@@ -33,6 +33,7 @@ Comptuer Graphics Topics
 - Fake imagery
 - Retouching
 - Forensics
+- Forgery
 - Motion Sickness
 - Optical Illusions
 - Industrial Light & Magic
