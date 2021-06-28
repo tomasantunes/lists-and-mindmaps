@@ -87,3 +87,5 @@
 2021-06-27 20:37:51 - Going to read a book.
 2021-06-28 09:02:48 - Read the news.
 2021-06-28 09:02:56 - Nothing to do.
+2021-06-28 10:05:14 - Had coffee at Proa.
+2021-06-28 10:05:25 - Going to classes.
