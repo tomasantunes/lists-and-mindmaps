@@ -124,3 +124,5 @@
 2021-06-29 12:58:05 - Going to meditate.
 2021-06-29 15:57:25 - Had coffee.
 2021-06-29 15:57:34 - Going to meditate.
+2021-06-29 17:38:44 - Had a beer at Proa.
+2021-06-29 17:38:53 - Going to meditate.
