@@ -22,3 +22,6 @@
 - Power Tools
 - Heavy Vehicles
 - Politics
+- Voting
+- Taxes
+- House Hunting
