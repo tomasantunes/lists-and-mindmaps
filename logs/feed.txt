@@ -151,3 +151,5 @@
 2021-07-01 07:35:07 - Had coffee.
 2021-07-01 07:35:14 - Read the news.
 2021-07-01 07:35:22 - Going to meditate.
+2021-07-01 08:05:16 - Had coffee at Proa.
+2021-07-01 08:05:24 - Going to meditate.
