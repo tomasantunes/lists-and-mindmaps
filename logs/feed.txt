@@ -191,3 +191,5 @@
 2021-07-03 08:55:00 - Going to classes.
 2021-07-03 09:32:22 - Going to stackoverflow.
 2021-07-03 09:39:56 - Doing nothing.
+2021-07-03 11:22:20 - Had coffee at Proa.
+2021-07-03 11:22:28 - Doing nothing.
