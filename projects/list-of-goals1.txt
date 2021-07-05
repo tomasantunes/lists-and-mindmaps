@@ -18,3 +18,4 @@
 - To find out how the brain works
 - To find alternative energy
 - To automate manual tasks
+- To stay in the same place until you receive a message
