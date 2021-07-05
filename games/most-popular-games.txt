@@ -1,0 +1,42 @@
+- Pong
+- Breakout
+- Solitaire
+- Space Invaders
+- Tetris
+- Pac-Man
+- Donkey Kong
+- Frogger
+- Asteroids
+- Minesweeper
+- Super Mario
+- Super Mario 64
+- Mario Kart
+- Sonic The Hedgehog
+- Doom
+- Quake
+- Wolfenstein
+- Unreal
+- Half-Life
+- Counter-Strike
+- Starfox
+- Crash Bandicoot
+- Mortal Kombat
+- Street Fighter
+- SimCity
+- Age of Empires
+- Diablo 2
+- FIFA
+- Madden NFL
+- NBA
+- Minecraft
+- GTA
+- Pokémon
+- The Legend of Zelda
+- Skyrim
+- Super Smash Bros.
+- Sega Rally
+- Virtua Cop
+- Tekken
+- Crazy Taxi
+- Tomb Raider
+- Call of Duty

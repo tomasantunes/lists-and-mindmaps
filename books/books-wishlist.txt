@@ -1,0 +1,4 @@
+- A Brief History of Everything - Ken Wilber
+- Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture
+- Think Like a Programmer: An Introduction to Creative Problem Solving
+- Don’t Make Me Think
