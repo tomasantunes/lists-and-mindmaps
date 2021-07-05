@@ -40,3 +40,7 @@
 - Crazy Taxi
 - Tomb Raider
 - Call of Duty
+- Final Fantasy
+- Warcraft
+- Starcraft
+- League of Legends
