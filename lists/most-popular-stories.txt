@@ -22,3 +22,5 @@
 - Rapunzel
 - The Hunchback of Notre Dame
 - Lady and the Tramp
+- The Wizard of Oz
+- Alice in Wonderland
