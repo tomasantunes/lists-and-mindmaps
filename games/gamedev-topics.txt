@@ -34,3 +34,48 @@
 - Weapons
 - Equipment
 - Flash Games
+- GDD
+- Building
+- Testing
+- Releasing
+- Porting
+- Health
+- Mana
+- LibGDX
+- Construct
+- GameMaker
+- Physics
+- Collisions
+- CryEngine
+- Twine
+- Frostbite
+- Buildbox
+- Programming
+- Design
+- Concept Art
+- Pitch
+- Prototype
+- HTML5 Canvas
+- WebGL
+- Python
+- Lua
+- Java
+- Android Studio
+- Visual Studio
+- XCode
+- Godot
+- GDScript
+- Publishers
+- App Store
+- Play Store
+- Steam
+- Itch.io
+- Alpha
+- Beta
+- Code Freeze
+- Crunch Time
+- Maintenance
+- Outsourcing
+- Localization
+- Indie
+- Triple A
