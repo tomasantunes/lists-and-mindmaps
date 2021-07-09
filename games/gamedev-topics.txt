@@ -33,3 +33,4 @@
 - Items
 - Weapons
 - Equipment
+- Flash Games
