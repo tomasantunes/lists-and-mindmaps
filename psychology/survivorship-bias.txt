@@ -1,0 +1,13 @@
+Survivorship bias is the error of focusing on the elements that passed some sort of selection process and overlooking those who didn’t. It can lead to overly optimistic beliefs because failures are ignored.
+
+If we look at the performance of famous companies during the last years we might think buying stocks like Microsoft or Google in the 90s would give us huge profits. What we fail to see is that there are thousands of companies on the market and most of them don’t really survive.
+
+Abraham Wald worked in the Statistical Research Group for the US army in the 40s. A problem was presented to him about airplanes. Armoring the airplanes made them heavier but they kept getting shot down by enemy fighter.
+
+The military gave Wald some data. When the airplanes came back from engagements over Europe, they were covered in bullet holes but the damage wasn’t uniformly distributed across the aircraft. There were more bullet holes in the fuselage, not so many in the engine.
+
+The armor, said Wald, doesn’t go where the bullet holes are. It goes where the bullet holes aren’t: on the engines.
+
+The missing bullet holes were on the missing planes. The reason planes were coming back with fewer hits to the engine is that planes that got hit in the engine weren’t coming back and hits to the fuselage were tolerated.
+
+There’s a common saying “They don’t make them like they used to”. It is inevitable that only those items that were built to last will have survived to the present day. The ones that aren’t visible are the ones that have been junked, scrapped, recycled or otherwise disposed of.
