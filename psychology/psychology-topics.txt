@@ -67,3 +67,4 @@
 - Detecting Deception
 - Imposter Syndrome
 - Stockholm Syndrome
+- Aphasia
