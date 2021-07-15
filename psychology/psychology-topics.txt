@@ -56,3 +56,5 @@
 - Attribution error
 - Hindsight Bias
 - Observer Bias
+- Nonverbal Communication
+- Detecting Deception
