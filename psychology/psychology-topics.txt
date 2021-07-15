@@ -65,3 +65,5 @@
 - Observer Bias
 - Nonverbal Communication
 - Detecting Deception
+- Imposter Syndrome
+- Stockholm Syndrome
