@@ -67,6 +67,7 @@
 - Detecting Deception
 - Imposter Syndrome
 - Stockholm Syndrome
+- Tourette Syndrome
 - Aphasia
 - Dyslexia
 - Apathy
@@ -83,3 +84,35 @@
 - Criminology
 - Loneliness
 - History of Psychology
+- Neurodevelopmental Disorders
+- Schizophrenia
+- Psychotic Disorder
+- Bipolar Disorder
+- Depression
+- Anxiety
+- Obsessive-Compulsive Disorder
+- Trauma Disorder
+- Stress Disorder
+- Dissociative Disorder
+- Eating Disorder
+- Addictive Disorder
+- Substance-related Disorder
+- Sleep Disorder
+- Elimination Disorder
+- Somatic Symptom
+- Sexual Dysfunction
+- Gender Dysphoria
+- Disruptive Disorder
+- Impulse-control Disorder
+- Conduct Disorder
+- Neurocognitive disorder
+- Paraphilic Disorder
+- Paranoid personality disorder
+- Schizoid personality disorder
+- Schizotypal personality disorder
+- Antisocial personality disorder
+- Borderline personality disorder
+- Histrionic personality disorder
+- Narcissistic personlity disorder
+- Avoidant personality disorder
+- Dependent personality disorder
